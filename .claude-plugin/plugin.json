@@ -1,0 +1,15 @@
+{
+  "name": "memoriant-temporal-planner-skill",
+  "version": "1.0.0",
+  "description": "Dependency-ordered long-horizon planning: task DAG construction, critical path analysis, temporal constraint resolution, parallel execution identification, and progress tracking with ETA estimation. 1 skill + 1 specialized agent.",
+  "author": {
+    "name": "Nathan Maine",
+    "url": "https://github.com/NathanMaine"
+  },
+  "homepage": "https://github.com/NathanMaine/temporal-executive-agent",
+  "repository": "https://github.com/NathanMaine/memoriant-temporal-planner-skill",
+  "license": "MIT",
+  "keywords": ["planning", "dag", "critical-path", "dependencies", "temporal-reasoning", "scheduling", "eta", "replanning", "long-horizon"],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}

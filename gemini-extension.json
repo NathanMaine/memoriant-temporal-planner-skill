@@ -1,0 +1,11 @@
+{
+  "name": "memoriant-temporal-planner-skill",
+  "description": "Dependency-ordered long-horizon planning: task DAG construction, critical path analysis, temporal constraint resolution, parallel execution identification, and progress tracking with ETA estimation.",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "name": "temporal-planner",
+      "path": "skills/temporal-planner/SKILL.md"
+    }
+  ]
+}
