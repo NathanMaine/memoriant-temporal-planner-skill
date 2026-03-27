@@ -1,17 +1,6 @@
 ---
 name: temporal-planner
 description: Dependency-ordered long-horizon planning. Construct task DAGs from natural language or structured input, identify critical paths, resolve temporal constraints, maximize parallel execution, track progress with ETA estimation, and replan when blockers emerge.
-version: 1.0.0
-author: Nathan Maine
-triggers:
-  - /temporal-planner
-  - "plan this project"
-  - "create task dependency graph"
-  - "critical path analysis"
-  - "what can run in parallel"
-  - "replan after blocker"
-  - "estimate completion date"
-  - "dependency-ordered plan"
 ---
 
 # Temporal Planner Skill
